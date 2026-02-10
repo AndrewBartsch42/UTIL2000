@@ -1,2 +1,2 @@
 # UTIL2000
-COBOL PROGRAM THAT CALCULATES USAGE RATES FOR KWH FOR 3 USERS
+COBOL program that calculates the usage rates for KWH of electricity
